@@ -1,2 +1,3 @@
 this is file of conflicting 
-we want to resoled the issues is not damange 
+we want to resoled the issues is not damange
+this is new of conflicts file
